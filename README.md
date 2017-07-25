@@ -1,6 +1,7 @@
-## Python 练习册，每天一个小程序（仅供个人练习使用）
+## Python 练习册，每天一个小程序（仅供个人练习使用）。
 #### Copy from [Yixiaohan/show-me-the-code](https://github.com/Yixiaohan/show-me-the-code)
 #### 侵删
+----------
 #### 说明： ####
 
 - Python 练习册，每天一个小程序。注：将 Python 换成其他语言，大多数题目也适用
